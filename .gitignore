@@ -1,0 +1,27 @@
+# Sui binaries and validators
+sui-**
+move-analyzer
+
+# Build outputs
+build/
+
+# Move lock file (generated)
+Move.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
